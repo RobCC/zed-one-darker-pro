@@ -1,0 +1,7 @@
+id = "one-darker-pro-theme"
+name = "One Darker Pro"
+version = "0.1.0"
+schema_version = 1
+authors = ["RobCC"]
+description = "A fork of One Dark Pro with darker background and balanced colors"
+repository = "https://github.com/RobCC/zed-one-darker-pro"
